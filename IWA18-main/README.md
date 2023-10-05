@@ -9,7 +9,7 @@ Welcome to the "Kitchen Express" web app project! This document provides an over
 ## Project Status
 ALL the HTML, CSS, and JavaScript files have been created. However, due to unforeseen circumstances, the developer has fallen ill and cannot continue working on the project. The responsibility has now shifted to me to complete the remaining sections of the code so that the product can still be launched within the week.
 
-Fortunately, the existing codebase has received approval from the team, meaning that I only needed to focus on modifying the scripts.js file. This file contains most of the event-specific behavior and event handlers. While the first handleDragOver handler's logic has been written and documented, my task was to add logic to all remaining event handlers. I also maked use of the data.js and view.js file exports to ensure that the project meets the following user stories:
+Fortunately, the existing codebase has received approval from the team, meaning that I only needed to focus on modifying the scripts.js file. This file contains most of the event-specific behavior and event handlers. While the first handleDragOver handler's logic has been written and documented, my task was to add logic to all remaining event handlers. I also made use of the data.js and view.js file exports to ensure that the project meets the following user stories:
 
 ## User Stories
 - The "Add Order" button should start as focused, allowing the user to press space/enter immediately to add an order.
